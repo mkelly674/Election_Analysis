@@ -9,3 +9,6 @@ It seems that the winner of this election is Diana DeGette by a landslide. The r
 ![2022-11-27 (2)](https://user-images.githubusercontent.com/114030563/204158985-34b9da52-8b5c-4fa5-bdbc-61bc524da211.png)
 
 ### County
+The county with the most votes cast was Denver with 82.8% of the votes cast. It had 306,055 votes cast. While Jefferson (38,855) had 10.5% and Arapahoe (24,801) had 6.7% of the votes cast.
+
+![2022-11-27 (2)](https://user-images.githubusercontent.com/114030563/204932346-ba280bf9-4f66-497c-a118-a2857eb6acb9.png)
